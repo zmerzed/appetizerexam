@@ -10,3 +10,8 @@
 - Run __php artisan migrate__
 - Run __npm install__
 - Run __npm run dev__
+
+
+### DB SQL
+
+- Can be found in docs/records.sql
